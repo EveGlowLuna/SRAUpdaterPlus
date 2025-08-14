@@ -1,0 +1,59 @@
+# Visual Studio
+.vs/
+*.com
+*.dll
+*.exe
+*.pdb
+*.user
+*.suo
+*.ncb
+*.aps
+*.bsc
+*.ilk
+*.obj
+*.resources
+*.res
+*.pch
+*.exp
+*.lib
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.bak
+*.cache
+*.log
+*.obj
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+*.cache
+
+# Rider
+.idea/
+*.iml
+
+# Misc
+*.DotSettings
+Thumbs.db
+Desktop.ini
+
+
+# Fody
+FodyWeavers.xsd
+FodyWeavers.xml
+
+# VS Copilot
+.vs/CopilotSnapshots/
+.vs/CopilotIndices/
